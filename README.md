@@ -1,5 +1,4 @@
 # Desk-Objects-Detection-using-YOLOv8
-# This is an Object Detection Project using YOLOv8
 
 This is a simple computer vision project where I used YOLOv8 to detect objects in images.
 
